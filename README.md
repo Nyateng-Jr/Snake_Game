@@ -1,2 +1,2 @@
 # Snake_Game
-A basic snake game project for beginners in learning Python.
+A basic snake game project for beginners learning Python.
